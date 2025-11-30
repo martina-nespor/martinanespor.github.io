@@ -968,7 +968,7 @@ h6:first-child,
 }
 
 .mejs-overlay-button {
-    background: url(/wp-includes/js/mediaelement/mejs-controls.svg) no-repeat;
+    background: url(https://martina-nespor.github.io/martinanespor.github.io/wp-includes/js/mediaelement/mejs-controls.svg) no-repeat;
     background-position: 0 -39px;
     height: 80px;
     width: 80px;
@@ -986,7 +986,7 @@ h6:first-child,
 .mejs-overlay-loading-bg-img {
     -webkit-animation: mejsanimation 1s linear infinite;
     animation: mejsanimation 1s linear infinite;
-    background: transparent url(/wp-includes/js/mediaelement/mejs-controls.svg) -160px -40px no-repeat;
+    background: transparent url(https://martina-nespor.github.io/martinanespor.github.io/wp-includes/js/mediaelement/mejs-controls.svg) -160px -40px no-repeat;
     display: block;
     height: 80px;
     width: 80px;
@@ -1040,7 +1040,7 @@ h6:first-child,
 }
 
 .mejs-button>button {
-    background: transparent url(/wp-includes/js/mediaelement/mejs-controls.svg);
+    background: transparent url(https://martina-nespor.github.io/martinanespor.github.io/wp-includes/js/mediaelement/mejs-controls.svg);
     border: 0;
     cursor: pointer;
     display: block;
